@@ -1,0 +1,55 @@
+@media (max-width:1280px) {
+    
+    .testimonial {
+        width: 100%;
+    }
+}
+
+@media (max-width:1024px) {
+    .customer-review-card-row-one {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .customer-review-card {
+        width: 91.66%;
+        margin-bottom: 30px;
+    }
+}
+
+@media (max-width:991px) {
+    .customer-review-card-row-one {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .customer-review-card {
+        width: 91.66%;
+        margin-bottom: 30px;
+    }
+}
+
+@media (max-width:768px) {
+    .paragraph {
+        font-size: 14px;
+    }
+
+    .customer-review-card-row-one {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .customer-review-card {
+        width: 91.66%;
+        margin-bottom: 30px;
+    }
+}
+
+@media (max-width:480px) {
+    .testimonial {
+        width: 100%;
+    }
+}
